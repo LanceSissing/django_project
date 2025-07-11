@@ -1,1 +1,1 @@
-web: gunicorn app-uniqu-name.wsgi
+web: gunicorn my_project.wsgi
