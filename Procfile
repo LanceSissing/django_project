@@ -1,0 +1,1 @@
+web: gunicorn app-uniqu-name.wsgi
